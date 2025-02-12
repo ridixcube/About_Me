@@ -22,10 +22,13 @@
 ---
 
 ### 📊 **Coding Activity**
-#### 🔥 **LeetCode & GeeksforGeeks Heatmaps**
-![LeetCode Stats](https://leetcard.jacoblin.cool/ridixcube?theme=dark&ext=heatmap )  
+#### 🔥 **LeetCode Contribution Graph**
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ridixcube?theme=dark&ext=heatmap)](https://leetcode.com/ridixcube/)  
 
-[![GeeksforGeeks Profile](https://geeks-for-geeks-stats-api-napiyo.vercel.app/api?userName=riddhimalanger)](https://auth.geeksforgeeks.org/user/riddhimalanger/practice/)
+#### 📌 **Visit My GeeksforGeeks Profile**
+<a href="https://auth.geeksforgeeks.org/user/riddhimalanger/practice/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="160"/>
+</a>
 
 ---
 
@@ -37,15 +40,10 @@
 
 ---
 
-### 📈 **GitHub Stats**
-![GitHub Streak](https://streak-stats.demolab.com?user=ridixcube&theme=tokyonight&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridixube&show_icons=true&theme=tokyonight)
-
----
-
 ### 📫 **Let's Connect!**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/riddhimalanger)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ridixcube)  
-[![Portfolio] *In Transit*  
+
+🚀 **Portfolio - *In Transit***  
 
 ⭐ **Feel free to check out my projects and collaborate!**  
