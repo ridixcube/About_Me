@@ -25,7 +25,7 @@
 #### 🔥 **LeetCode & GeeksforGeeks Heatmaps**
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ridixcube?theme=dark&ext=heatmap )  
 
-[![GeeksforGeeks Profile](https://geeks-for-geeks-stats-api-napiyo.vercel.app/api?userName=riddhimalanger)](https://auth.geeksforgeeks.org/user/your-gfg-username/practice/)
+[![GeeksforGeeks Profile](https://geeks-for-geeks-stats-api-napiyo.vercel.app/api?userName=riddhimalanger)](https://auth.geeksforgeeks.org/user/riddhimalanger/practice/)
 
 ---
 
