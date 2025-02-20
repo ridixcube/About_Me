@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 **About Me**
-- 🔭 Working on **AI, IoT, and MERN-based projects**  
+- 🔭 Working on **Analysis, IoT, and  UI/UX projects**  
 - 🎨 Lead Designer at **The Josh Squad**  
 - 📝 Passionate about **writing, painting, and defence studies**  
 - 🏆 NCC Cadet & Orator  
